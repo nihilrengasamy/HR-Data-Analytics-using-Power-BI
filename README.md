@@ -1,4 +1,4 @@
-# HR-Data-Analytics-using-Power-BI
+# Business-Intelligence-Workforce-Dashboard-using-Power-BI
 
 ## 📊 Project Overview
 This project focuses on analyzing **HR attendance data** using **Microsoft Power BI** to uncover insights related to employee attendance, work mode preferences (work from home vs. office), and leave patterns.  
